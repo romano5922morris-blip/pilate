@@ -1,0 +1,9 @@
+# Netlify : anciennes URL Wix vers les nouvelles pages (301), puis repli SPA
+/blank        /             301
+/blank-1      /centre       301
+/notre-%C3%A9quipe /equipe  301
+/blank-2      /disciplines  301
+/services-9   /planning     301
+/blank-4      /contact      301
+/book-online  /contact       301
+/*            /index.html   200
